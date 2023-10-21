@@ -1,4 +1,4 @@
-.box {
+.box-img {
     width: 350px;
     height: 220px;
     padding-top: 15px;
@@ -7,4 +7,6 @@
     padding-right: 10px;
     margin-bottom: 30px;
     background-color: green;
+    outline-color: red;
+    
 }
