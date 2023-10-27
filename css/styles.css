@@ -7,8 +7,8 @@
     padding-right: 10px;
     margin-bottom: 30px;
     background-color: green;
-    outline-color: red;
-
+    border: 2px dashed red;
+    box-sizing:border-box;
 
 
 
